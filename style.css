@@ -1,4 +1,8 @@
 /* navigation bar */
+.row{
+    --bs-gutter-x: 0;
+}
+
 @media (max-width: 991px) {
     .nav-items{
         padding-top: 20px;
